@@ -57,7 +57,7 @@ What can be the possible reasons for this error to occur and what are the propos
 
 20. How to to send mail using gmail in Laravel? [WRITE YOUR NAME]
 
-21. How to send email in Java? Explain step by step setup and one example on how the email is sent? [WRITE YOUR NAME]
+21. How to send email in Java? Explain step by step setup and one example on how the email is sent? [Rishabh]
 
 22. How to send email in C# via Gmail? You should use the C# default mail function? [WRITE YOUR NAME]
 
@@ -75,6 +75,6 @@ What can be the possible reasons for this error to occur and what are the propos
 
 30. How to send out an Email notification in selenium webdriver? [WRITE YOUR NAME]
 
-31. How to Configure Email Notification in Jenkins? [WRITE YOUR NAME]
+31. How to Configure Email Notification in Jenkins? [Rishabh]
 
 32. How to configure email notification in ansible? [WRITE YOUR NAME]
