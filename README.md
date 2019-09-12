@@ -1,6 +1,9 @@
 # pepithon-WTC
+
 List of question for hacathon!
+
 For Technical Writing Guidelines, please visit this link: https://pepipost.com/tutorials/pepipost-technical-writing-guidelines/
+Select your preferred question, add your name within the square brackets and create a pull request. You can select maximum 3 questions only. Pull requests will be accepted in first come first serve basis.
 
 1. How to install dovecot on centos 7? - [WRITE YOUR NAME]
 
