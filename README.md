@@ -1,7 +1,6 @@
 # pepithon-WTC
-List of question for hacathon !
-Minimum: 1,500 words article.
-Include clear steps, screenshots, exceptions, dependecies if any which you resolved. In case you got some errors, then the error both in form of screenshot and text will be required."
+List of question for hacathon!
+For Technical Writing Guidelines, please visit this link: https://pepipost.com/tutorials/pepipost-technical-writing-guidelines/
 
 1. How to install dovecot on centos 7? - [WRITE YOUR NAME]
 
