@@ -31,9 +31,9 @@ Select your preferred question, add your name within the square brackets and cre
 
 13. How to install and configure Email Notification in Jenkins? [Rishabh]
 
-14. How to configure XAMPP to send mail from localhost? [WRITE YOUR NAME]
+14. How to configure XAMPP to send mail from localhost? [Ghanshyam]
 
-15. How to send email using Node.js? Explain all the configuration/installaiton required. [WRITE YOUR NAME]
+15. How to send email using Node.js? Explain all the configuration/installaiton required. [Ghanshyam]
 
 16. How to sending email in .NET through Gmail? and in case I get an error "Gmail Error :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required", then what are the possible reasons for this error and what are the ways to resolve it. [WRITE YOUR NAME]
 
@@ -53,7 +53,7 @@ What can be the possible reasons for this error to occur and what are the propos
 
 18. How to setup a fake smtp test server? Write the setup/installation, and give example on how it works. Talk about various issues which might come during the installation? [WRITE YOUR NAME]
 
-19. How to embed images in email? Example with an example, code snippets and clear steps? [WRITE YOUR NAME]
+19. How to embed images in email? Example with an example, code snippets and clear steps? [Ghanshyam]
 
 20. How to to send mail using gmail in Laravel? [WRITE YOUR NAME]
 
@@ -75,4 +75,4 @@ What can be the possible reasons for this error to occur and what are the propos
 
 30. How to send out an Email notification in selenium webdriver? [WRITE YOUR NAME]
 
-31. How to configure email notification in ansible? [WRITE YOUR NAME]
+31. How to configure email notification in ansible? [Gaurang]
