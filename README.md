@@ -29,7 +29,7 @@ Select your preferred question, add your name within the square brackets and cre
 
 12. How to send email using the GMail SMTP server from a PHP page? [WRITE YOUR NAME]
 
-13. How to configure and send email from Jenkins? [WRITE YOUR NAME]
+13. How to install and configure Email Notification in Jenkins? [Rishabh]
 
 14. How to configure XAMPP to send mail from localhost? [WRITE YOUR NAME]
 
@@ -75,6 +75,4 @@ What can be the possible reasons for this error to occur and what are the propos
 
 30. How to send out an Email notification in selenium webdriver? [WRITE YOUR NAME]
 
-31. How to Configure Email Notification in Jenkins? [Rishabh]
-
-32. How to configure email notification in ansible? [WRITE YOUR NAME]
+31. How to configure email notification in ansible? [WRITE YOUR NAME]
