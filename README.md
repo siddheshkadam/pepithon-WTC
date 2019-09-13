@@ -13,13 +13,13 @@ Select your preferred question, add your name within the square brackets and cre
 
 4. How to configure SPF and DKIM With Postfix on Centos 7? [WRITE YOUR NAME]
 
-5. How to Set up SPF and DKIM with Postfix on Ubuntu 18.04? [WRITE YOUR NAME]
+5. How to Set up SPF and DKIM with Postfix on Ubuntu 18.04? [Subodh]
 
-6. PHP has a default mail() function to send email. Which sends emails using the localhost. How to change the default localhost to some custom smtp server e.g. smtp.pepipost.com. So that all emails from PHP mail() function will get routed via smtp.pepipost.com instead of 'localhost'. Your article should also cover the steps on how to write a program to send Email using PHP mail() Function? [WRITE YOUR NAME]
+6. PHP has a default mail() function to send email. Which sends emails using the localhost. How to change the default localhost to some custom smtp server e.g. smtp.pepipost.com. So that all emails from PHP mail() function will get routed via smtp.pepipost.com instead of 'localhost'. Your article should also cover the steps on how to write a program to send Email using PHP mail() Function? [Subodh]
 
 7. How To Set Up a Postfix E-Mail Server with Dovecot? [WRITE YOUR NAME]
 
-8. How to install postfix on Ubuntu 18.04.3 LTS? [WRITE YOUR NAME]
+8. How to install postfix on Ubuntu 18.04.3 LTS? [Subodh]
 
 9. How to configure Postfix to Send Mail Using Gmail and Google Apps on Debian server? [WRITE YOUR NAME]
 
