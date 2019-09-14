@@ -71,7 +71,7 @@ What can be the possible reasons for this error to occur and what are the propos
 
 27. How to send an email in Go using gomail? [WRITE YOUR NAME]
 
-29. How to Send Email using CodeIgniter? [WRITE YOUR NAME]
+29. How to Send Email using CodeIgniter? [Rishabh]
 
 30. How to send out an Email notification in selenium webdriver? [WRITE YOUR NAME]
 
