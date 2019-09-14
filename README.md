@@ -23,11 +23,11 @@ Select your preferred question, add your name within the square brackets and cre
 
 9. How to configure Postfix to Send Mail Using Gmail and Google Apps on Debian server? [WRITE YOUR NAME]
 
-10. How to send email from command line using the Sendmail on a linux machine? Mention the different configurations required + example the different parameters used in sendmail to send an email e.g. Subject, From, Attachment, ReplyTo etc [WRITE YOUR NAME]
+10. How to send email from command line using the Sendmail on a linux machine? Mention the different configurations required + example the different parameters used in sendmail to send an email e.g. Subject, From, Attachment, ReplyTo etc [Gaurang]
 
 11. What are the different commands to send email from command line in linux? Explain each with example and give a link to some good installation guide for these commands. [Vishal C]
 
-12. How to send email using the GMail SMTP server from a PHP page? [WRITE YOUR NAME]
+12. How to send email using the GMail SMTP server from a PHP page? [Gaurang]
 
 13. How to install and configure Email Notification in Jenkins? [Rishabh]
 
