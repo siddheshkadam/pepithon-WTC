@@ -25,7 +25,7 @@ Select your preferred question, add your name within the square brackets and cre
 
 10. How to send email from command line using the Sendmail on a linux machine? Mention the different configurations required + example the different parameters used in sendmail to send an email e.g. Subject, From, Attachment, ReplyTo etc [WRITE YOUR NAME]
 
-11. What are the different commands to send email from command line in linux? Explain each with example and give a link to some good installation guide for these commands. [WRITE YOUR NAME]
+11. What are the different commands to send email from command line in linux? Explain each with example and give a link to some good installation guide for these commands. [Vishal C]
 
 12. How to send email using the GMail SMTP server from a PHP page? [WRITE YOUR NAME]
 
@@ -63,9 +63,9 @@ What can be the possible reasons for this error to occur and what are the propos
 
 23. How to send email in Golang via Gmail? You should use the Golang default mail function? [WRITE YOUR NAME]
 
-24. How to send an email from JavaScript via Gmail? You should use the Javascript default mail function? [WRITE YOUR NAME]
+24. How to send an email from JavaScript via Gmail? You should use the Javascript default mail function? [Vishal C]
 
-25. How to send an email from Ruby via Gmail? You should use the Ruby default mail function? [WRITE YOUR NAME]
+25. How to send an email from Ruby via Gmail? You should use the Ruby default mail function? [Vishal C]
 
 26. How to send an email from Rust using Lettre? [WRITE YOUR NAME]
 
