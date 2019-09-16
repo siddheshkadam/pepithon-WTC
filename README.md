@@ -69,7 +69,7 @@ What can be the possible reasons for this error to occur and what are the propos
 
 26. How to send an email from Rust using Lettre? [WRITE YOUR NAME]
 
-27. How to send an email in Go using gomail? [WRITE YOUR NAME]
+27. How to send an email in Go using gomail? [Vikram]
 
 29. How to Send Email using CodeIgniter? [Rishabh]
 
