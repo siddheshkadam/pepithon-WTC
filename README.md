@@ -61,7 +61,7 @@ What can be the possible reasons for this error to occur and what are the propos
 
 22. How to send email in C# via Gmail? You should use the C# default mail function? [WRITE YOUR NAME]
 
-23. How to send email in Golang via Gmail? You should use the Golang default mail function? [WRITE YOUR NAME]
+23. How to send email in Golang via Gmail? You should use the Golang default mail function? [GAURANG]
 
 24. How to send an email from JavaScript via Gmail? You should use the Javascript default mail function? [Vishal C]
 
