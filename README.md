@@ -25,7 +25,7 @@ Select your preferred question, add your name within the square brackets and cre
 
 10. How to send email from command line using the Sendmail on a linux machine? Mention the different configurations required + example the different parameters used in sendmail to send an email e.g. Subject, From, Attachment, ReplyTo etc [WRITE YOUR NAME]
 
-11. What are the different commands to send email from command line in linux? Explain each with example and give a link to some good installation guide for these commands. [Vishal C]
+11. What are the different commands to send email from command line in linux? Explain each with example and give a link to some good installation guide for these commands. [Assigned To: Vishal | Current Status: Under Review]
 
 12. How to send email using the GMail SMTP server from a PHP page? [Gaurang]
 
@@ -63,9 +63,9 @@ What can be the possible reasons for this error to occur and what are the propos
 
 23. How to send email in Golang via Gmail? You should use the Golang default mail function? [GAURANG]
 
-24. How to send an email from JavaScript via Gmail? You should use the Javascript default mail function? [Vishal C]
+24. How to send an email from JavaScript via Gmail? You should use the Javascript default mail function? [Assigned To: Vishal | Current Status: Released]
 
-25. How to send an email from Ruby via Gmail? You should use the Ruby default mail function? [Vishal C]
+25. How to send an email from Ruby via Gmail? You should use the Ruby default mail function? [Assigned To: Vishal | Current Status: Released]
 
 26. How to send an email from Rust using Lettre? [WRITE YOUR NAME]
 
@@ -76,3 +76,10 @@ What can be the possible reasons for this error to occur and what are the propos
 30. How to send out an Email notification in selenium webdriver? [WRITE YOUR NAME]
 
 31. How to configure email notification in ansible? [Gaurang]
+
+### Added on 19-Sept-2019
+32. How to install Sendmail on Ubuntu 18.04.3 LTS? Explain step by step setup and talk about the various exceptions/errors with their respective solutions. [WRITE YOUR NAME]
+
+33. A-Z of SPF. What is SPF? How to check if your SPF record is correct? What are the most common errors with SPF? What does SPF fail mean and how to fix that problem? [WRITE YOUR NAME]
+
+34. A-Z of DMARC. What is DMARC? How to check if your DMARC record is correct? What are the most common errors with DMARC? What does DMARC fail mean and how to fix that problem? Discuss about problems which can arise because of DMARC fail. [WRITE YOUR NAME]
