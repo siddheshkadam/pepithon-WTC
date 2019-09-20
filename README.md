@@ -17,7 +17,7 @@ Select your preferred question, add your name within the square brackets and cre
 
 6. PHP has a default mail() function to send email. Which sends emails using the localhost. How to change the default localhost to some custom smtp server e.g. smtp.pepipost.com. So that all emails from PHP mail() function will get routed via smtp.pepipost.com instead of 'localhost'. Your article should also cover the steps on how to write a program to send Email using PHP mail() Function? [Subodh]
 
-7. How To Set Up a Postfix E-Mail Server with Dovecot? [WRITE YOUR NAME]
+7. How To Set Up a Postfix E-Mail Server with Dovecot? [Siddhesh Kadam]
 
 8. How to install postfix on Ubuntu 18.04.3 LTS? [Subodh]
 
@@ -80,6 +80,6 @@ What can be the possible reasons for this error to occur and what are the propos
 ### Added on 19-Sept-2019
 32. How to install Sendmail on Ubuntu 18.04.3 LTS? Explain step by step setup and talk about the various exceptions/errors with their respective solutions. [WRITE YOUR NAME]
 
-33. A-Z of SPF. What is SPF? How to check if your SPF record is correct? What are the most common errors with SPF? What does SPF fail mean and how to fix that problem? [WRITE YOUR NAME]
+33. A-Z of SPF. What is SPF? How to check if your SPF record is correct? What are the most common errors with SPF? What does SPF fail mean and how to fix that problem? [Siddhesh Kadam]
 
 34. A-Z of DMARC. What is DMARC? How to check if your DMARC record is correct? What are the most common errors with DMARC? What does DMARC fail mean and how to fix that problem? Discuss about problems which can arise because of DMARC fail. [WRITE YOUR NAME]
