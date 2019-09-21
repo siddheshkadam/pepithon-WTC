@@ -82,7 +82,7 @@ What can be the possible reasons for this error to occur and what are the propos
 
 33. A-Z of SPF. What is SPF? How to check if your SPF record is correct? What are the most common errors with SPF? What does SPF fail mean and how to fix that problem? [GAURANG]
 
-34. A-Z of DMARC. What is DMARC? How to check if your DMARC record is correct? What are the most common errors with DMARC? What does DMARC fail mean and how to fix that problem? Discuss about problems which can arise because of DMARC fail. [WRITE YOUR NAME]
+34. A-Z of DMARC. What is DMARC? How to check if your DMARC record is correct? What are the most common errors with DMARC? What does DMARC fail mean and how to fix that problem? Discuss about problems which can arise because of DMARC fail. [GAURANG]
 
 ### Added on 20-Sept-2019
 35. How To Install the Send-Only Mail Server "Exim" on Debian 10? Once the installation steps are done, explain how to test whether the installation is correct or not with a working example of sending your first test email. https://www.exim.org/ [WRITE YOUR NAME]
