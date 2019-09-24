@@ -51,7 +51,7 @@ Select your preferred question, add your name within the square brackets and cre
  client.Send(mail);`
 What can be the possible reasons for this error to occur and what are the proposed solutions? [WRITE YOUR NAME]
 
-18. How to setup a fake smtp test server? Write the setup/installation, and give example on how it works. Talk about various issues which might come during the installation? [WRITE YOUR NAME]
+18. How to setup a fake smtp test server? Write the setup/installation, and give example on how it works. Talk about various issues which might come during the installation? [VishalChauhan]
 
 19. How to embed images in email? Example with an example, code snippets and clear steps? [Ghanshyam]
 
