@@ -89,4 +89,4 @@ What can be the possible reasons for this error to occur and what are the propos
 
 36. How To Install the Send-Only Mail Server "Exim" on Ubuntu 18.04 LTS? Once the installation steps are done, explain how to test whether the installation is correct or not with a working example of sending your first test email. https://www.exim.org/ [WRITE YOUR NAME]
 
-37. How To Install the Send-Only Mail Server "Exim" on CentOS 7? Once the installation steps are done, explain how to test whether the installation is correct or not with a working example of sending your first test email. https://www.exim.org/ [WRITE YOUR NAME]
+37. How To Install the Send-Only Mail Server "Exim" on CentOS 7? Once the installation steps are done, explain how to test whether the installation is correct or not with a working example of sending your first test email. https://www.exim.org/ [Siddhesh Kadam]
